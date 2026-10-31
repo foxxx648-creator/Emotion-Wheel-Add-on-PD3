@@ -61,7 +61,7 @@ Steam\steamapps\common\PAYDAY3\PAYDAY3\Content\Paks\~mods
 
 ### Благодарности
 
-- Основа взята из **The Emote Wheel Mod** (https://modworkshop.net/mod/45169). Я перенёс его на текущую версию игры и доработал.
+- Мод был взят от сюда, после чего был перенесён на свежую версию игры и доработан: https://modworkshop.net/mod/45169
 - Большинство анимаций взято из Fortnite, PUBG и POSTAL 4, они не мои.
 
 ## What's in this repo
