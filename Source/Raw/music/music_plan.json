@@ -1,0 +1,1402 @@
+{
+ "Boots_N_Cats": {
+  "intro_len": 0,
+  "loop_len": 10.3,
+  "k": 3,
+  "cycle": 30.900000000000002,
+  "gain_db": -2.3000000000000003,
+  "src_loop": "Beatboxer.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Boots_N_Cats_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.8624943310657596
+   },
+   {
+    "name": "SW_Boots_N_Cats_01",
+    "kind": "loop",
+    "t": 3.8624943310657596,
+    "dur": 3.8624943310657596
+   },
+   {
+    "name": "SW_Boots_N_Cats_02",
+    "kind": "loop",
+    "t": 7.724988662131519,
+    "dur": 3.862517006802721
+   },
+   {
+    "name": "SW_Boots_N_Cats_03",
+    "kind": "loop",
+    "t": 11.58750566893424,
+    "dur": 3.8624943310657596
+   },
+   {
+    "name": "SW_Boots_N_Cats_04",
+    "kind": "loop",
+    "t": 15.45,
+    "dur": 3.8624943310657596
+   },
+   {
+    "name": "SW_Boots_N_Cats_05",
+    "kind": "loop",
+    "t": 19.31249433106576,
+    "dur": 3.862517006802721
+   },
+   {
+    "name": "SW_Boots_N_Cats_06",
+    "kind": "loop",
+    "t": 23.17501133786848,
+    "dur": 3.8624943310657596
+   },
+   {
+    "name": "SW_Boots_N_Cats_07",
+    "kind": "loop",
+    "t": 27.03750566893424,
+    "dur": 3.8624943310657596
+   }
+  ]
+ },
+ "Best_Mates": {
+  "intro_len": 0,
+  "loop_len": 0.5333,
+  "k": 17,
+  "cycle": 9.0661,
+  "gain_db": -5.199999999999999,
+  "src_loop": "Mates.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Best_Mates_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.533061224489796
+   },
+   {
+    "name": "SW_Best_Mates_01",
+    "kind": "loop",
+    "t": 4.533061224489796,
+    "dur": 4.533038548752835
+   }
+  ]
+ },
+ "Billy_Bounce": {
+  "intro_len": 0,
+  "loop_len": 11.2333,
+  "k": 2,
+  "cycle": 22.4666,
+  "gain_db": -2.199999999999999,
+  "src_loop": "BillyBounce.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Billy_Bounce_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.7444444444444445
+   },
+   {
+    "name": "SW_Billy_Bounce_01",
+    "kind": "loop",
+    "t": 3.7444444444444445,
+    "dur": 3.744421768707483
+   },
+   {
+    "name": "SW_Billy_Bounce_02",
+    "kind": "loop",
+    "t": 7.488866213151927,
+    "dur": 3.744421768707483
+   },
+   {
+    "name": "SW_Billy_Bounce_03",
+    "kind": "loop",
+    "t": 11.23328798185941,
+    "dur": 3.7444444444444445
+   },
+   {
+    "name": "SW_Billy_Bounce_04",
+    "kind": "loop",
+    "t": 14.977732426303854,
+    "dur": 3.7444444444444445
+   },
+   {
+    "name": "SW_Billy_Bounce_05",
+    "kind": "loop",
+    "t": 18.7221768707483,
+    "dur": 3.744421768707483
+   }
+  ]
+ },
+ "Blinding_Lights": {
+  "intro_len": 0,
+  "loop_len": 14.0667,
+  "k": 2,
+  "cycle": 28.1334,
+  "gain_db": -5.199999999999999,
+  "src_loop": "Blinder.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Blinding_Lights_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.019047619047619
+   },
+   {
+    "name": "SW_Blinding_Lights_01",
+    "kind": "loop",
+    "t": 4.019047619047619,
+    "dur": 4.019070294784581
+   },
+   {
+    "name": "SW_Blinding_Lights_02",
+    "kind": "loop",
+    "t": 8.038117913832199,
+    "dur": 4.019047619047619
+   },
+   {
+    "name": "SW_Blinding_Lights_03",
+    "kind": "loop",
+    "t": 12.057165532879818,
+    "dur": 4.019070294784581
+   },
+   {
+    "name": "SW_Blinding_Lights_04",
+    "kind": "loop",
+    "t": 16.076235827664398,
+    "dur": 4.019047619047619
+   },
+   {
+    "name": "SW_Blinding_Lights_05",
+    "kind": "loop",
+    "t": 20.095283446712017,
+    "dur": 4.019070294784581
+   },
+   {
+    "name": "SW_Blinding_Lights_06",
+    "kind": "loop",
+    "t": 24.114353741496597,
+    "dur": 4.019047619047619
+   }
+  ]
+ },
+ "Crackdown": {
+  "intro_len": 0,
+  "loop_len": 6.6667,
+  "k": 4,
+  "cycle": 26.6668,
+  "gain_db": -1.9,
+  "src_loop": "CrackDown.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Crackdown_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.8095464852607708
+   },
+   {
+    "name": "SW_Crackdown_01",
+    "kind": "loop",
+    "t": 3.8095464852607708,
+    "dur": 3.8095464852607708
+   },
+   {
+    "name": "SW_Crackdown_02",
+    "kind": "loop",
+    "t": 7.6190929705215416,
+    "dur": 3.8095464852607708
+   },
+   {
+    "name": "SW_Crackdown_03",
+    "kind": "loop",
+    "t": 11.428639455782314,
+    "dur": 3.8095238095238093
+   },
+   {
+    "name": "SW_Crackdown_04",
+    "kind": "loop",
+    "t": 15.238163265306122,
+    "dur": 3.8095464852607708
+   },
+   {
+    "name": "SW_Crackdown_05",
+    "kind": "loop",
+    "t": 19.047709750566895,
+    "dur": 3.8095464852607708
+   },
+   {
+    "name": "SW_Crackdown_06",
+    "kind": "loop",
+    "t": 22.857256235827663,
+    "dur": 3.8095464852607708
+   }
+  ]
+ },
+ "Dance_Moves": {
+  "intro_len": 0,
+  "loop_len": 6.8,
+  "k": 1,
+  "cycle": 6.8,
+  "gain_db": -0.5792008965127842,
+  "src_loop": "OGDanceMoves.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Dance_Moves_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.4
+   },
+   {
+    "name": "SW_Dance_Moves_01",
+    "kind": "loop",
+    "t": 3.4,
+    "dur": 3.4
+   }
+  ]
+ },
+ "Distraction_Dance": {
+  "intro_len": 0,
+  "loop_len": 5.5,
+  "k": 1,
+  "cycle": 5.5,
+  "gain_db": -4.5,
+  "src_loop": "Distraction.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Distraction_Dance_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 5.5
+   }
+  ]
+ },
+ "Freestylin": {
+  "intro_len": 0,
+  "loop_len": 6.2667,
+  "k": 3,
+  "cycle": 18.8001,
+  "gain_db": -2.199999999999999,
+  "src_loop": "Tylelin.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Freestylin_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.7600226757369613
+   },
+   {
+    "name": "SW_Freestylin_01",
+    "kind": "loop",
+    "t": 3.7600226757369613,
+    "dur": 3.7600226757369613
+   },
+   {
+    "name": "SW_Freestylin_02",
+    "kind": "loop",
+    "t": 7.5200453514739225,
+    "dur": 3.76
+   },
+   {
+    "name": "SW_Freestylin_03",
+    "kind": "loop",
+    "t": 11.280045351473923,
+    "dur": 3.7600226757369613
+   },
+   {
+    "name": "SW_Freestylin_04",
+    "kind": "loop",
+    "t": 15.040068027210884,
+    "dur": 3.7600226757369613
+   }
+  ]
+ },
+ "Fresh": {
+  "intro_len": 0,
+  "loop_len": 5.0667,
+  "k": 1,
+  "cycle": 5.0667,
+  "gain_db": -3.199999999999999,
+  "src_loop": "freshsong.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Fresh_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 5.066689342403628
+   }
+  ]
+ },
+ "Gangnam_Style": {
+  "intro_len": 0,
+  "loop_len": 7.2667,
+  "k": 4,
+  "cycle": 29.0668,
+  "gain_db": -4.900000000000001,
+  "src_loop": "Gangnam.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Gangnam_Style_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.152403628117914
+   },
+   {
+    "name": "SW_Gangnam_Style_01",
+    "kind": "loop",
+    "t": 4.152403628117914,
+    "dur": 4.152403628117914
+   },
+   {
+    "name": "SW_Gangnam_Style_02",
+    "kind": "loop",
+    "t": 8.304807256235827,
+    "dur": 4.152403628117914
+   },
+   {
+    "name": "SW_Gangnam_Style_03",
+    "kind": "loop",
+    "t": 12.457210884353742,
+    "dur": 4.152380952380953
+   },
+   {
+    "name": "SW_Gangnam_Style_04",
+    "kind": "loop",
+    "t": 16.609591836734694,
+    "dur": 4.152403628117914
+   },
+   {
+    "name": "SW_Gangnam_Style_05",
+    "kind": "loop",
+    "t": 20.761995464852607,
+    "dur": 4.152403628117914
+   },
+   {
+    "name": "SW_Gangnam_Style_06",
+    "kind": "loop",
+    "t": 24.914399092970523,
+    "dur": 4.152403628117914
+   }
+  ]
+ },
+ "Hand_Signals": {
+  "intro_len": 0,
+  "loop_len": 9.6,
+  "k": 1,
+  "cycle": 9.6,
+  "gain_db": 0.32193894100283693,
+  "src_loop": "HandGrab.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Hand_Signals_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.8
+   },
+   {
+    "name": "SW_Hand_Signals_01",
+    "kind": "loop",
+    "t": 4.8,
+    "dur": 4.8
+   }
+  ]
+ },
+ "Infinite_Dab": {
+  "intro_len": 0.7667,
+  "loop_len": 1.0667,
+  "k": 14,
+  "cycle": 14.9338,
+  "gain_db": -6.800000000000001,
+  "src_loop": "Athena_Emote_Infinidab.ogg",
+  "src_intro": "DabIntro.ogg",
+  "chunks": [
+   {
+    "name": "SW_Infinite_Dab_00",
+    "kind": "intro",
+    "t": 0.0,
+    "dur": 0.7666893424036281
+   },
+   {
+    "name": "SW_Infinite_Dab_01",
+    "kind": "loop",
+    "t": 0.7666893424036281,
+    "dur": 3.7334467120181407
+   },
+   {
+    "name": "SW_Infinite_Dab_02",
+    "kind": "loop",
+    "t": 4.500136054421769,
+    "dur": 3.7334467120181407
+   },
+   {
+    "name": "SW_Infinite_Dab_03",
+    "kind": "loop",
+    "t": 8.233582766439909,
+    "dur": 3.733469387755102
+   },
+   {
+    "name": "SW_Infinite_Dab_04",
+    "kind": "loop",
+    "t": 11.967052154195011,
+    "dur": 3.7334467120181407
+   }
+  ]
+ },
+ "JayWalking": {
+  "intro_len": 0,
+  "loop_len": 1.3333,
+  "k": 22,
+  "cycle": 29.3326,
+  "gain_db": -3.0999999999999988,
+  "src_loop": "Walking.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_JayWalking_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.190362811791383
+   },
+   {
+    "name": "SW_JayWalking_01",
+    "kind": "loop",
+    "t": 4.190362811791383,
+    "dur": 4.190385487528345
+   },
+   {
+    "name": "SW_JayWalking_02",
+    "kind": "loop",
+    "t": 8.380748299319729,
+    "dur": 4.190362811791383
+   },
+   {
+    "name": "SW_JayWalking_03",
+    "kind": "loop",
+    "t": 12.571111111111112,
+    "dur": 4.190385487528345
+   },
+   {
+    "name": "SW_JayWalking_04",
+    "kind": "loop",
+    "t": 16.761496598639457,
+    "dur": 4.190362811791383
+   },
+   {
+    "name": "SW_JayWalking_05",
+    "kind": "loop",
+    "t": 20.95185941043084,
+    "dur": 4.190385487528345
+   },
+   {
+    "name": "SW_JayWalking_06",
+    "kind": "loop",
+    "t": 25.142244897959184,
+    "dur": 4.190362811791383
+   }
+  ]
+ },
+ "Llama_Bell": {
+  "intro_len": 3.8,
+  "loop_len": 7.4667,
+  "k": 2,
+  "cycle": 14.9334,
+  "gain_db": -2.8000000000000007,
+  "src_loop": "LamaLoop.ogg",
+  "src_intro": "LamaIntro.ogg",
+  "chunks": [
+   {
+    "name": "SW_Llama_Bell_00",
+    "kind": "intro",
+    "t": 0.0,
+    "dur": 3.8
+   },
+   {
+    "name": "SW_Llama_Bell_01",
+    "kind": "loop",
+    "t": 3.8,
+    "dur": 3.733356009070295
+   },
+   {
+    "name": "SW_Llama_Bell_02",
+    "kind": "loop",
+    "t": 7.533356009070295,
+    "dur": 3.733356009070295
+   },
+   {
+    "name": "SW_Llama_Bell_03",
+    "kind": "loop",
+    "t": 11.26671201814059,
+    "dur": 3.7333333333333334
+   },
+   {
+    "name": "SW_Llama_Bell_04",
+    "kind": "loop",
+    "t": 15.000045351473922,
+    "dur": 3.733356009070295
+   }
+  ]
+ },
+ "Marsh_Walk": {
+  "intro_len": 0,
+  "loop_len": 10.0667,
+  "k": 1,
+  "cycle": 10.0667,
+  "gain_db": -1.2013349266771196,
+  "src_loop": "MellowSong.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Marsh_Walk_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.3555555555555556
+   },
+   {
+    "name": "SW_Marsh_Walk_01",
+    "kind": "loop",
+    "t": 3.3555555555555556,
+    "dur": 3.355578231292517
+   },
+   {
+    "name": "SW_Marsh_Walk_02",
+    "kind": "loop",
+    "t": 6.711133786848072,
+    "dur": 3.3555555555555556
+   }
+  ]
+ },
+ "Nana_Nana": {
+  "intro_len": 0,
+  "loop_len": 6.2,
+  "k": 2,
+  "cycle": 12.4,
+  "gain_db": -2.0,
+  "src_loop": "NaNan.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Nana_Nana_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.133333333333334
+   },
+   {
+    "name": "SW_Nana_Nana_01",
+    "kind": "loop",
+    "t": 4.133333333333334,
+    "dur": 4.133333333333334
+   },
+   {
+    "name": "SW_Nana_Nana_02",
+    "kind": "loop",
+    "t": 8.266666666666667,
+    "dur": 4.133333333333334
+   }
+  ]
+ },
+ "Never_Gonna": {
+  "intro_len": 0,
+  "loop_len": 10.0,
+  "k": 3,
+  "cycle": 30.0,
+  "gain_db": -3.0999999999999988,
+  "src_loop": "GiveUA.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Never_Gonna_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_01",
+    "kind": "loop",
+    "t": 3.75,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_02",
+    "kind": "loop",
+    "t": 7.5,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_03",
+    "kind": "loop",
+    "t": 11.25,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_04",
+    "kind": "loop",
+    "t": 15.0,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_05",
+    "kind": "loop",
+    "t": 18.75,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_06",
+    "kind": "loop",
+    "t": 22.5,
+    "dur": 3.75
+   },
+   {
+    "name": "SW_Never_Gonna_07",
+    "kind": "loop",
+    "t": 26.25,
+    "dur": 3.75
+   }
+  ]
+ },
+ "Paws_Claws": {
+  "intro_len": 0,
+  "loop_len": 4.4,
+  "k": 9,
+  "cycle": 39.6,
+  "gain_db": -4.400000000000001,
+  "src_loop": "CatsNPaws.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Paws_Claws_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_01",
+    "kind": "loop",
+    "t": 3.96,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_02",
+    "kind": "loop",
+    "t": 7.92,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_03",
+    "kind": "loop",
+    "t": 11.88,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_04",
+    "kind": "loop",
+    "t": 15.84,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_05",
+    "kind": "loop",
+    "t": 19.8,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_06",
+    "kind": "loop",
+    "t": 23.76,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_07",
+    "kind": "loop",
+    "t": 27.72,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_08",
+    "kind": "loop",
+    "t": 31.68,
+    "dur": 3.96
+   },
+   {
+    "name": "SW_Paws_Claws_09",
+    "kind": "loop",
+    "t": 35.64,
+    "dur": 3.96
+   }
+  ]
+ },
+ "Pumpernickel": {
+  "intro_len": 0,
+  "loop_len": 3.5333,
+  "k": 4,
+  "cycle": 14.1332,
+  "gain_db": -8.100000000000001,
+  "src_loop": "Athena_Emotes_Music_PumpDance.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Pumpernickel_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.5332879818594103
+   },
+   {
+    "name": "SW_Pumpernickel_01",
+    "kind": "loop",
+    "t": 3.5332879818594103,
+    "dur": 3.5333106575963718
+   },
+   {
+    "name": "SW_Pumpernickel_02",
+    "kind": "loop",
+    "t": 7.0665986394557825,
+    "dur": 3.5333106575963718
+   },
+   {
+    "name": "SW_Pumpernickel_03",
+    "kind": "loop",
+    "t": 10.599909297052154,
+    "dur": 3.5332879818594103
+   }
+  ]
+ },
+ "Rambunctious": {
+  "intro_len": 0,
+  "loop_len": 3.6667,
+  "k": 2,
+  "cycle": 7.3334,
+  "gain_db": -3.0999999999999988,
+  "src_loop": "Rambu.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Rambunctious_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.6667120181405894
+   },
+   {
+    "name": "SW_Rambunctious_01",
+    "kind": "loop",
+    "t": 3.6667120181405894,
+    "dur": 3.666689342403628
+   }
+  ]
+ },
+ "Reanimated": {
+  "intro_len": 0,
+  "loop_len": 4.8333,
+  "k": 2,
+  "cycle": 9.6666,
+  "gain_db": -7.6999999999999975,
+  "src_loop": "athena_emote_founders_music.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Reanimated_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.83328798185941
+   },
+   {
+    "name": "SW_Reanimated_01",
+    "kind": "loop",
+    "t": 4.83328798185941,
+    "dur": 4.833310657596372
+   }
+  ]
+ },
+ "The_Robot": {
+  "intro_len": 0,
+  "loop_len": 9.8333,
+  "k": 2,
+  "cycle": 19.6666,
+  "gain_db": -1.3000000000000003,
+  "src_loop": "Robot.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_The_Robot_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.9333106575963717
+   },
+   {
+    "name": "SW_The_Robot_01",
+    "kind": "loop",
+    "t": 3.9333106575963717,
+    "dur": 3.933333333333333
+   },
+   {
+    "name": "SW_The_Robot_02",
+    "kind": "loop",
+    "t": 7.866643990929705,
+    "dur": 3.9333106575963717
+   },
+   {
+    "name": "SW_The_Robot_03",
+    "kind": "loop",
+    "t": 11.799954648526077,
+    "dur": 3.933333333333333
+   },
+   {
+    "name": "SW_The_Robot_04",
+    "kind": "loop",
+    "t": 15.73328798185941,
+    "dur": 3.9333106575963717
+   }
+  ]
+ },
+ "Swipe_It": {
+  "intro_len": 0,
+  "loop_len": 3.4667,
+  "k": 4,
+  "cycle": 13.8668,
+  "gain_db": -5.0,
+  "src_loop": "SwipeLoop.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Swipe_It_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.622267573696145
+   },
+   {
+    "name": "SW_Swipe_It_01",
+    "kind": "loop",
+    "t": 4.622267573696145,
+    "dur": 4.622267573696145
+   },
+   {
+    "name": "SW_Swipe_It_02",
+    "kind": "loop",
+    "t": 9.24453514739229,
+    "dur": 4.622267573696145
+   }
+  ]
+ },
+ "Zany": {
+  "intro_len": 0,
+  "loop_len": 9.1,
+  "k": 1,
+  "cycle": 9.1,
+  "gain_db": -1.9,
+  "src_loop": "ZanyOST.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Zany_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 4.55
+   },
+   {
+    "name": "SW_Zany_01",
+    "kind": "loop",
+    "t": 4.55,
+    "dur": 4.55
+   }
+  ]
+ },
+ "Twerk_Dance": {
+  "intro_len": 0,
+  "loop_len": 15.2,
+  "k": 6,
+  "cycle": 91.19999999999999,
+  "gain_db": -8.599999999999998,
+  "src_loop": "TwerkDance.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Twerk_Dance_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_01",
+    "kind": "loop",
+    "t": 3.965215419501134,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_02",
+    "kind": "loop",
+    "t": 7.930430839002268,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_03",
+    "kind": "loop",
+    "t": 11.895646258503401,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_04",
+    "kind": "loop",
+    "t": 15.860861678004536,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_05",
+    "kind": "loop",
+    "t": 19.826077097505667,
+    "dur": 3.9652380952380955
+   },
+   {
+    "name": "SW_Twerk_Dance_06",
+    "kind": "loop",
+    "t": 23.791315192743763,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_07",
+    "kind": "loop",
+    "t": 27.756530612244898,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_08",
+    "kind": "loop",
+    "t": 31.721746031746033,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_09",
+    "kind": "loop",
+    "t": 35.686961451247164,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_10",
+    "kind": "loop",
+    "t": 39.6521768707483,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_11",
+    "kind": "loop",
+    "t": 43.617392290249434,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_12",
+    "kind": "loop",
+    "t": 47.58260770975057,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_13",
+    "kind": "loop",
+    "t": 51.547823129251704,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_14",
+    "kind": "loop",
+    "t": 55.51303854875283,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_15",
+    "kind": "loop",
+    "t": 59.478253968253966,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_16",
+    "kind": "loop",
+    "t": 63.4434693877551,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_17",
+    "kind": "loop",
+    "t": 67.40868480725624,
+    "dur": 3.9652380952380955
+   },
+   {
+    "name": "SW_Twerk_Dance_18",
+    "kind": "loop",
+    "t": 71.37392290249433,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_19",
+    "kind": "loop",
+    "t": 75.33913832199546,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_20",
+    "kind": "loop",
+    "t": 79.3043537414966,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_21",
+    "kind": "loop",
+    "t": 83.26956916099773,
+    "dur": 3.965215419501134
+   },
+   {
+    "name": "SW_Twerk_Dance_22",
+    "kind": "loop",
+    "t": 87.23478458049887,
+    "dur": 3.965215419501134
+   }
+  ]
+ },
+ "2_Phut_Phon": {
+  "intro_len": 0,
+  "loop_len": 30.0,
+  "k": 5,
+  "cycle": 150.0,
+  "gain_db": -5.4,
+  "src_loop": "2_phut_phon.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_2_Phut_Phon_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_01",
+    "kind": "loop",
+    "t": 3.9473696145124717,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_02",
+    "kind": "loop",
+    "t": 7.894739229024943,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_03",
+    "kind": "loop",
+    "t": 11.842108843537416,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_04",
+    "kind": "loop",
+    "t": 15.789478458049887,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_05",
+    "kind": "loop",
+    "t": 19.73684807256236,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_06",
+    "kind": "loop",
+    "t": 23.68421768707483,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_07",
+    "kind": "loop",
+    "t": 27.631587301587302,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_08",
+    "kind": "loop",
+    "t": 31.578956916099774,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_09",
+    "kind": "loop",
+    "t": 35.526326530612245,
+    "dur": 3.9473469387755102
+   },
+   {
+    "name": "SW_2_Phut_Phon_10",
+    "kind": "loop",
+    "t": 39.473673469387755,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_11",
+    "kind": "loop",
+    "t": 43.42104308390023,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_12",
+    "kind": "loop",
+    "t": 47.3684126984127,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_13",
+    "kind": "loop",
+    "t": 51.31578231292517,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_14",
+    "kind": "loop",
+    "t": 55.26315192743764,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_15",
+    "kind": "loop",
+    "t": 59.210521541950115,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_16",
+    "kind": "loop",
+    "t": 63.15789115646258,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_17",
+    "kind": "loop",
+    "t": 67.10526077097505,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_18",
+    "kind": "loop",
+    "t": 71.05263038548753,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_19",
+    "kind": "loop",
+    "t": 75.0,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_20",
+    "kind": "loop",
+    "t": 78.94736961451247,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_21",
+    "kind": "loop",
+    "t": 82.89473922902495,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_22",
+    "kind": "loop",
+    "t": 86.84210884353742,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_23",
+    "kind": "loop",
+    "t": 90.78947845804989,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_24",
+    "kind": "loop",
+    "t": 94.73684807256235,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_25",
+    "kind": "loop",
+    "t": 98.68421768707483,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_26",
+    "kind": "loop",
+    "t": 102.6315873015873,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_27",
+    "kind": "loop",
+    "t": 106.57895691609977,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_28",
+    "kind": "loop",
+    "t": 110.52632653061225,
+    "dur": 3.9473469387755102
+   },
+   {
+    "name": "SW_2_Phut_Phon_29",
+    "kind": "loop",
+    "t": 114.47367346938775,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_30",
+    "kind": "loop",
+    "t": 118.42104308390023,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_31",
+    "kind": "loop",
+    "t": 122.3684126984127,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_32",
+    "kind": "loop",
+    "t": 126.31578231292517,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_33",
+    "kind": "loop",
+    "t": 130.26315192743763,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_34",
+    "kind": "loop",
+    "t": 134.2105215419501,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_35",
+    "kind": "loop",
+    "t": 138.1578911564626,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_36",
+    "kind": "loop",
+    "t": 142.10526077097506,
+    "dur": 3.9473696145124717
+   },
+   {
+    "name": "SW_2_Phut_Phon_37",
+    "kind": "loop",
+    "t": 146.05263038548753,
+    "dur": 3.9473696145124717
+   }
+  ]
+ },
+ "Neo_s_Crazy_Night": {
+  "intro_len": 0,
+  "loop_len": 22.9,
+  "k": 1,
+  "cycle": 22.9,
+  "gain_db": -6.4,
+  "src_loop": "neos_crazy_night.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_Neo_s_Crazy_Night_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.816666666666667
+   },
+   {
+    "name": "SW_Neo_s_Crazy_Night_01",
+    "kind": "loop",
+    "t": 3.816666666666667,
+    "dur": 3.816666666666667
+   },
+   {
+    "name": "SW_Neo_s_Crazy_Night_02",
+    "kind": "loop",
+    "t": 7.633333333333334,
+    "dur": 3.816666666666667
+   },
+   {
+    "name": "SW_Neo_s_Crazy_Night_03",
+    "kind": "loop",
+    "t": 11.45,
+    "dur": 3.816666666666667
+   },
+   {
+    "name": "SW_Neo_s_Crazy_Night_04",
+    "kind": "loop",
+    "t": 15.266666666666667,
+    "dur": 3.816666666666667
+   },
+   {
+    "name": "SW_Neo_s_Crazy_Night_05",
+    "kind": "loop",
+    "t": 19.083333333333332,
+    "dur": 3.816666666666667
+   }
+  ]
+ },
+ "See_Tinh": {
+  "intro_len": 0,
+  "loop_len": 30.4333,
+  "k": 1,
+  "cycle": 30.4333,
+  "gain_db": -9.9,
+  "src_loop": "see_tinh.ogg",
+  "src_intro": null,
+  "chunks": [
+   {
+    "name": "SW_See_Tinh_00",
+    "kind": "loop",
+    "t": 0.0,
+    "dur": 3.804172335600907
+   },
+   {
+    "name": "SW_See_Tinh_01",
+    "kind": "loop",
+    "t": 3.804172335600907,
+    "dur": 3.8041496598639455
+   },
+   {
+    "name": "SW_See_Tinh_02",
+    "kind": "loop",
+    "t": 7.608321995464853,
+    "dur": 3.804172335600907
+   },
+   {
+    "name": "SW_See_Tinh_03",
+    "kind": "loop",
+    "t": 11.41249433106576,
+    "dur": 3.8041496598639455
+   },
+   {
+    "name": "SW_See_Tinh_04",
+    "kind": "loop",
+    "t": 15.216643990929706,
+    "dur": 3.804172335600907
+   },
+   {
+    "name": "SW_See_Tinh_05",
+    "kind": "loop",
+    "t": 19.02081632653061,
+    "dur": 3.804172335600907
+   },
+   {
+    "name": "SW_See_Tinh_06",
+    "kind": "loop",
+    "t": 22.82498866213152,
+    "dur": 3.8041496598639455
+   },
+   {
+    "name": "SW_See_Tinh_07",
+    "kind": "loop",
+    "t": 26.629138321995466,
+    "dur": 3.804172335600907
+   }
+  ]
+ }
+}

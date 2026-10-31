@@ -33,6 +33,7 @@ Open the wheel with your usual emote key, then scroll the mouse wheel to flip pa
 
 - This started from **The Emote Wheel Mod** (https://modworkshop.net/mod/45169). I ported it to the current game version and kept working on it.
 - Most of the animations come from Fortnite, PUBG and POSTAL 4. They aren't mine.
+- I repeat: the dance animations, the music and all 28 icons are taken from The Emote Wheel Mod by Lesnov
 
 ## RU
 
@@ -63,11 +64,13 @@ Steam\steamapps\common\PAYDAY3\PAYDAY3\Content\Paks\~mods
 
 - Мод был взят от сюда, после чего был перенесён на свежую версию игры и доработан: https://modworkshop.net/mod/45169
 - Большинство анимаций взято из Fortnite, PUBG и POSTAL 4, они не мои.
+- Повторюсь: анимации танцев, музыка и все 28 иконок взяты из The Emote Wheel Mod от Lesnov: https://modworkshop.net/mod/45169.
 
 ## What's in this repo
 
 - `PAYDAY3/` holds the mod files laid out the way the game expects (cooked assets, tags, config).
 - `docs/` has the dance list and a few notes on how the wheel works.
+- `Source/` has the uncooked sources: `Source/Content/` is the editor assets for the PD3 modkit (UE 5.5), and `Source/Raw/` is the raw icons (PNG), music (OGG) and animations (FBX) they were imported from.
 
 Built `.pak/.ucas/.utoc` files aren't kept here. Grab them from the mod page.
 

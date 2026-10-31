@@ -17,3 +17,6 @@
 Thumbs.db
 .DS_Store
 desktop.ini
+# source art and audio under Source/ are kept on purpose
+!Source/**/*.png
+!Source/**/*.ogg
