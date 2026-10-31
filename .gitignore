@@ -1,0 +1,19 @@
+# built paks go on the mod page, not here
+*.pak
+*.ucas
+*.utoc
+*.sig
+# audio / textures / raw anims (too big for git)
+*.ubulk
+*.uptnl
+*.wav
+*.ogg
+*.png
+*.tga
+# misc junk
+*.usmap
+*.log
+*.zip
+Thumbs.db
+.DS_Store
+desktop.ini
